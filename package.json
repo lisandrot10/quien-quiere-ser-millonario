@@ -1,0 +1,18 @@
+{
+  "name": "quien-quiere-ser-millorario",
+  "version": "1.0.0",
+  "description": "juego de quien quiere ser millonario",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Lisandro Ramirez",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.4",
+    "readline": "^1.3.0"
+  }
+}
